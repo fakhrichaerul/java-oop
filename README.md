@@ -1,3 +1,3 @@
-# Belajar Java Dasar
+# Belajar Java OOP
 
-Ini adalah project belajar java dasar 
+Ini adalah project belajar java OOP
